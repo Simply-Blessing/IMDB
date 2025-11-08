@@ -20,8 +20,8 @@ A simple command-line interface that fetches and displays movie data from [The M
 Clone this repository and move into the project directory:
 
 ```bash
-git clone https://github.com/Simply-Blessing/IMDB_APP.git
-cd IMDB_APP
+git clone https://github.com/Simply-Blessing/IMDB.git
+cd IMDB
 ```
 
 Install dependencies:
